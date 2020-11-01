@@ -1,11 +1,12 @@
 # Bourbon-Data-Analysis
 
-Problem: There are many bourbon whiskeys on the market, all of which have a wide array of prices—anywhere from $10 to thousands of dollars. Beyond MSRP, many retailers are known for marking up bottles based on their rarity or allocation. 
+### Problem: 
+There are many bourbon whiskeys on the market, all of which have a wide array of prices anywhere from $10 to thousands of dollars. Beyond MSRP, many retailers are known for marking up bottles based on their rarity or their allocation. Beyond retail stores, there are secondary bourbon markets that tend to be able to offer bottles that would be difficult to find in a retail store, these however charge a premium for the bottles. 
 
 Does high price correlate with high ratings?
 What %ABV is optimal for the achieving the highest rating?
 What flavor characteristics are observed in some of the highest rated bourbons?
-Can bourbon be a new investment opportunity?
+Can bourbon be a new investment opportunity? What bottles pull the greatest ROI?
  
 Whiskey Advocate Website:
 https://www.whiskyadvocate.com/ratings-reviews/?search=&submit=+&brand_id=0&rating=95-100&price=0&category=0&styles_id=0&issue_id=0
