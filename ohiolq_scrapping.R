@@ -1,3 +1,6 @@
+# This data set is from OhioLQ Products page and was scapped using Chrome DataMiner extension
+# https://www.ohlq.com/products/
+
 # load packages
 pacman::p_load(tidyverse, dplyr, tidyr) 
 
