@@ -31,10 +31,13 @@ https://bottlebluebook.com
 ----------------------------------------
 Used Sites: 
 
-American Bourbon Association Website: 
+American Bourbon Association Website: bourbon_distilleries_location.csv
 https://americanbourbonassociation.com/distilleries
 
-State of Ohio Liquor Pricings
+State of Ohio Liquor Pricings: ohiolq_dataset.csv
 https://www.ohlq.com/products/
+
+Whiskybase: distilleries_data.csv
+https://www.whiskybase.com/whiskies/distilleries
 
 
