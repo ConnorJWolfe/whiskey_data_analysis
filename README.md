@@ -11,8 +11,7 @@ Can bourbon be a new investment opportunity? What bottles pull the greatest ROI?
 Whiskey Advocate Website:
 https://www.whiskyadvocate.com/ratings-reviews/?search=&submit=+&brand_id=0&rating=95-100&price=0&category=0&styles_id=0&issue_id=0
 
-American Bourbon Association Website: 
-https://americanbourbonassociation.com/distilleries
+
 
 https://whiskyanalysis.com/index.php/database/
 
@@ -29,8 +28,13 @@ https://thebourbonculture.com/whiskey-info/the-bourbon-brown-book/
 
 Second Hand Market Prices
 https://bottlebluebook.com
+----------------------------------------
+Used Sites: 
 
-State of Ohio Liquor Pricingdfs
+American Bourbon Association Website: 
+https://americanbourbonassociation.com/distilleries
+
+State of Ohio Liquor Pricings
 https://www.ohlq.com/products/
 
 
