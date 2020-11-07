@@ -37,4 +37,6 @@ https://www.ohlq.com/products/
 Whiskybase: distilleries_data.csv
 https://www.whiskybase.com/whiskies/distilleries
 
+Distillery Trail: distilleries_location.csv
+https://www.distillerytrail.com/directory-distillery/
 
