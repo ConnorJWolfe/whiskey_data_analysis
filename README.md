@@ -37,6 +37,5 @@ https://www.ohlq.com/products/
 Whiskybase: distilleries_data.csv
 https://www.whiskybase.com/whiskies/distilleries
 
-Distillery Trail: distilleries_location.csv
-https://www.distillerytrail.com/directory-distillery/
+https://www.kaggle.com/koki25ando/world-whisky-distilleries-brands-dataset
 
