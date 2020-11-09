@@ -1,7 +1,7 @@
 # load packages
 pacman::p_load(tidyverse, dplyr, tidyr) 
 
-# read csv file from Chrom DataMiner
+# read csv file from Chrome DataMiner
 ohiolq = read_csv('dataminer.csv')
 
 # select only needed columns from original csv file write to new df
